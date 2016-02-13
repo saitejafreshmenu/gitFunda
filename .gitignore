@@ -3,7 +3,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 fm-buyer-api/logs/
-
+.idea/workspace.xml
 # Package Files #
 **/target
 *.war
