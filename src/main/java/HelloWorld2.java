@@ -6,7 +6,7 @@ public class HelloWorld2 {
         System.out.println(1);
         System.out.println(11);
         System.out.println(12);
-        System.out.println("Mobikwik");
+        System.out.println("Mob1ikwik");
 
     }
 }
